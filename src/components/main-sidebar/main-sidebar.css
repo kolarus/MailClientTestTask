@@ -1,0 +1,15 @@
+:root {
+  --main-sidebar-width: 50px;
+}
+
+.main-sidebar {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: rgb(86 84 84);
+  height: 100%;
+  width: var(--main-sidebar-width);
+  position: absolute;
+  top: 0;
+  left: 0;
+}

@@ -1,0 +1,9 @@
+.messages-container {
+  --messages-container-offset-left: calc(var(--main-sidebar-width) + var(--email-list-width));
+  position: absolute;
+  top: 0;
+  left: var(--messages-container-offset-left);
+  width: 20px;
+  height: 100%;
+  width: calc(100% - var(--messages-container-offset-left));
+}

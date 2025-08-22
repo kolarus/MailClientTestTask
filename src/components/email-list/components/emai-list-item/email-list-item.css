@@ -1,0 +1,16 @@
+.email-list-item {
+  width: 100%;
+  height: 80px;
+  background-color:rgb(171, 169, 169);
+  border-bottom: 1px solid black;
+  transition: all 0.3s ease, transform 0.3s ease;
+}
+
+.email-list-item:hover {
+  cursor: pointer;
+  background-color: rgb(115 112 112);
+}
+
+.email-list-item:last-of-type {
+  border-bottom: none;
+}
