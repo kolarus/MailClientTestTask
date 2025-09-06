@@ -1,0 +1,67 @@
+:root {
+  --email-list-width: max(23%, 255px);
+}
+
+.email-list-container {
+  background-color: rgb(227 226 226);
+  height: 100%;
+  width: var(--email-list-width);
+  position: absolute;
+  top: 0;
+  left: var(--main-sidebar-width);
+  border-right: 1px solid rgb(224 222 222);
+  position: relative;
+}
+
+.add-email-button {
+  position: absolute;
+  bottom: 16px;
+  right: 16px;
+  width: 40px;
+  height: 40px;
+  background-color: rgb(59 130 246);
+  color: white;
+  border: none;
+  border-radius: 50%;
+  font-size: 20px;
+  font-weight: bold;
+  cursor: pointer;
+  transition: all 0.2s;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15);
+  z-index: 10;
+}
+
+.add-email-button:hover:not(:disabled) {
+  background-color: rgb(37 99 235);
+  transform: scale(1.05);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
+}
+
+.add-email-button:disabled {
+  background-color: rgb(156 163 175);
+  cursor: not-allowed;
+  transform: none;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
+
+.email-list {
+  height: 100%;
+  overflow-y: scroll;
+}
+
+.email-list__empty,
+.email-list__loading,
+.email-list__error {
+  padding: 20px;
+  text-align: center;
+  font-size: 14px;
+}
+
+.email-list__empty,
+.email-list__loading {
+  color: rgb(128 128 128);
+}
+
+.email-list__error {
+  color: rgb(220 38 38);
+}

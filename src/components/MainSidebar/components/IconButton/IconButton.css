@@ -1,0 +1,29 @@
+.icon-button {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  padding: 10px 0;
+  transition: all 0.3s ease, transform 0.3s ease;
+  cursor: pointer;
+}
+
+.icon-button__icon {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.icon-button__label {
+  font-size: 10px;
+  margin-top: 4px;
+  color: #ffffff;
+  text-align: center;
+  font-weight: 500;
+}
+
+.icon-button:hover,
+.icon-button--selected {
+  background-color: rgb(115 112 112);
+}

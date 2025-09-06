@@ -1,0 +1,302 @@
+[
+  {
+    "id": "1",
+    "from": "Bohdan Morozov",
+    "subject": "Job Offer",
+    "content": "Please work with us we are ready to offer you all the money of the world you will become the richest person. We have been following your work for quite some time and are impressed by your technical skills and innovative approach to problem-solving. Our company is rapidly expanding and we need talented individuals like you to join our team. We offer competitive salaries, comprehensive benefits, flexible work arrangements, and opportunities for professional growth. You would be working on cutting-edge projects with the latest technologies, collaborating with some of the brightest minds in the industry. The role comes with significant responsibility and the chance to make a real impact on our products and services. We believe you would be a perfect fit for our company culture and would love to discuss this opportunity further. Please let us know if you're interested in learning more about this position.",
+    "date": "2024-12-20T14:30:00.000Z",
+    "folderId": "inbox",
+    "isRead": false,
+    "isDeleted": false
+  },
+  {
+    "id": "2",
+    "from": "Sarah Johnson",
+    "subject": "Meeting Tomorrow",
+    "content": "Don't forget about our meeting tomorrow at 2 PM. We'll discuss the project timeline and deliverables. I've prepared an agenda that covers all the key points we need to address, including resource allocation, milestone dates, and potential risks. Please bring your latest progress reports and any questions or concerns you might have. We'll also be discussing the budget implications of the recent scope changes and how they might affect our delivery schedule. I expect this meeting to run for about 90 minutes, so please block your calendar accordingly. Looking forward to a productive discussion that will help us move the project forward successfully.",
+    "date": "2024-12-19T09:30:00.000Z",
+    "folderId": "inbox",
+    "isRead": true,
+    "isDeleted": false
+  },
+  {
+    "id": "3",
+    "from": "Draft",
+    "subject": "Quarterly Report Draft",
+    "content": "This is a draft of the quarterly report that needs to be completed before the deadline. The report covers our performance metrics, financial analysis, and strategic initiatives for Q4. I've included comprehensive data on revenue growth, customer acquisition, and operational efficiency improvements. The executive summary highlights our key achievements and areas for improvement. Please review the financial projections and market analysis sections carefully, as they will be crucial for our board presentation. I need your feedback on the recommendations section, particularly regarding our expansion plans and technology investments. The final version needs to be submitted by Friday, so please prioritize your review and send me your comments by Wednesday.",
+    "date": "2024-12-18T16:15:00.000Z",
+    "folderId": "draft",
+    "isRead": false,
+    "isDeleted": false
+  },
+  {
+    "id": "4",
+    "from": "John Smith",
+    "subject": "Project Update",
+    "content": "Here's the latest update on the project progress. We've completed 75% of the tasks and are on track to meet our delivery deadline. The development team has successfully implemented the core functionality, and the initial testing phase has yielded positive results. We've resolved most of the technical challenges that were identified during the planning phase. The user interface design has been finalized and approved by stakeholders. Currently, we're focusing on performance optimization and security testing. The remaining 25% of tasks include final integration testing, documentation updates, and deployment preparation. I'm confident we'll be ready for the production release as scheduled. Please let me know if you need any additional details or have specific concerns about any aspect of the project.",
+    "date": "2024-12-17T11:22:00.000Z",
+    "folderId": "folder",
+    "isRead": true,
+    "isDeleted": false
+  },
+  {
+    "id": "5",
+    "from": "Marketing Team",
+    "subject": "Campaign Results",
+    "content": "The latest marketing campaign has exceeded our expectations with a 25% increase in engagement across all digital platforms. Our social media reach has grown by 40%, and website traffic has increased by 35% compared to the previous quarter. The email marketing component achieved an impressive 18% open rate and 8% click-through rate, which is well above industry standards. Customer feedback has been overwhelmingly positive, with many praising our new brand messaging and visual identity. The campaign has generated 150 qualified leads, of which 30% have already converted to paying customers. Based on these results, I recommend extending the campaign for another month and increasing the budget allocation for the most successful channels. We should also consider adapting this approach for our upcoming product launch.",
+    "date": "2024-12-16T13:45:00.000Z",
+    "folderId": "folder",
+    "isRead": false,
+    "isDeleted": false
+  },
+  {
+    "id": "6",
+    "from": "Support",
+    "subject": "Deleted Email",
+    "content": "This email was accidentally deleted and moved to trash during routine cleanup. It contained important information about system updates and maintenance schedules that need to be communicated to all team members. The original message included details about the planned downtime, backup procedures, and contingency plans in case of unexpected issues. Please note that the maintenance window has been rescheduled to minimize impact on business operations. All affected systems will be backed up before any changes are made. If you have any questions or concerns about the upcoming maintenance, please contact the IT support team immediately. We apologize for any confusion caused by the accidental deletion of this important communication.",
+    "date": "2024-12-15T10:00:00.000Z",
+    "folderId": "trash",
+    "isRead": true,
+    "isDeleted": false
+  },
+  {
+    "id": "7",
+    "from": "Newsletter",
+    "subject": "Weekly Updates",
+    "content": "Your weekly newsletter with the latest updates and news from our platform. This week we're excited to announce several new features that will enhance your user experience. Our development team has been working hard to implement the feedback we received from our community survey. The new dashboard provides better analytics and reporting capabilities, while the improved search functionality makes it easier to find the information you need. We've also enhanced our mobile app with offline capabilities and push notifications. Additionally, we're launching a new integration with popular third-party tools that many of you have requested. Don't forget to check out our upcoming webinar series where we'll demonstrate these new features in detail.",
+    "date": "2024-12-14T08:00:00.000Z",
+    "folderId": "inbox",
+    "isRead": false,
+    "isDeleted": false
+  },
+  {
+    "id": "8",
+    "from": "HR Department",
+    "subject": "Holiday Schedule",
+    "content": "Please review the updated holiday schedule for the upcoming quarter and make necessary adjustments to your project timelines. The schedule includes all federal holidays as well as our company-specific days off. Please note that we'll be closed for an extended period during the winter break, from December 23rd through January 2nd. During this time, only emergency support will be available. All employees are encouraged to complete their current projects and hand over any urgent tasks before the holiday period begins. If you have any planned time off that conflicts with project deadlines, please discuss this with your manager as soon as possible. We want to ensure that all critical work is completed before the holidays so everyone can enjoy their time off without work-related stress.",
+    "date": "2024-12-13T12:30:00.000Z",
+    "folderId": "draft",
+    "isRead": false,
+    "isDeleted": false
+  },
+  {
+    "id": "9",
+    "from": "Alice Cooper",
+    "subject": "Team Building Event",
+    "content": "Join us for an exciting team building event next Friday. Activities include bowling, laser tag, and dinner at a fantastic restaurant downtown. This event is designed to strengthen our team bonds and provide a fun break from our regular work routine. We'll start with bowling at 2 PM, followed by laser tag at 4 PM, and finish with a group dinner at 6 PM. Transportation will be provided from the office, and all expenses are covered by the company. Please RSVP by Wednesday so we can finalize the headcount for reservations. This is a great opportunity to get to know your colleagues better and celebrate our recent project successes. Dress code is casual, and don't forget to bring your competitive spirit for the games!",
+    "date": "2024-12-21T10:15:00.000Z",
+    "folderId": "inbox",
+    "isRead": false,
+    "isDeleted": false
+  },
+  {
+    "id": "10",
+    "from": "Tech Support",
+    "subject": "System Maintenance",
+    "content": "Scheduled system maintenance will occur this weekend. Please save your work and log out by Friday 6 PM to avoid any data loss or system conflicts. The maintenance window is scheduled from Saturday 8 PM to Sunday 6 AM, during which all systems will be unavailable. This maintenance is necessary to install critical security updates and performance improvements that will enhance system stability and speed. Our IT team will be monitoring the process throughout the night to ensure everything goes smoothly. If you need to access any files during the maintenance period, please download them before Friday evening. We expect all systems to be fully operational by Monday morning. In the unlikely event of any issues, we have a rollback plan ready to minimize downtime.",
+    "date": "2024-12-20T16:30:00.000Z",
+    "folderId": "inbox",
+    "isRead": true,
+    "isDeleted": false
+  },
+  {
+    "id": "11",
+    "from": "Finance Department",
+    "subject": "Expense Report Reminder",
+    "content": "Please submit your monthly expense reports by the end of this week. Late submissions will be processed next month, which could delay your reimbursements significantly. Make sure to include all receipts and properly categorize your expenses according to our updated guidelines. The finance team has implemented a new digital system that should make the submission process faster and more efficient. If you're having trouble with the new system, training videos are available on our intranet, or you can contact HR for assistance. Remember that certain expenses require pre-approval, especially travel and entertainment costs exceeding $500. Please double-check your calculations and ensure all required fields are completed before submitting. Any incomplete reports will be returned for correction, potentially causing further delays in processing.",
+    "date": "2024-12-18T14:20:00.000Z",
+    "folderId": "inbox",
+    "isRead": false,
+    "isDeleted": false
+  },
+  {
+    "id": "12",
+    "from": "Client Services",
+    "subject": "Customer Feedback",
+    "content": "We've received positive feedback from our recent client presentation. They're interested in expanding the project scope and have requested a detailed proposal for additional features. The client was particularly impressed with our innovative approach and the quality of our deliverables. They mentioned that our solution addresses their core business challenges more effectively than competing proposals they've reviewed. The potential scope expansion could include mobile app development, advanced analytics features, and integration with their existing enterprise systems. This represents a significant opportunity to increase our project value by approximately 40%. I'll be scheduling a follow-up meeting next week to discuss their specific requirements and timeline expectations. Please prepare detailed estimates for the additional work they've requested.",
+    "date": "2024-12-17T11:45:00.000Z",
+    "folderId": "inbox",
+    "isRead": false,
+    "isDeleted": false
+  },
+  {
+    "id": "13",
+    "from": "Me",
+    "subject": "Meeting Notes Draft",
+    "content": "Draft notes from today's stakeholder meeting. Need to review and finalize before sharing with the team. The meeting covered several critical topics including budget adjustments, timeline revisions, and resource reallocation. Key stakeholders expressed concerns about the current project velocity and requested more frequent status updates. We discussed potential risks and mitigation strategies, particularly around third-party integrations and data migration challenges. The product owner provided updated requirements that may impact our current sprint planning. Action items were assigned to various team members, with specific deadlines for deliverables. I need to clean up these notes, add missing details, and ensure all decisions are accurately documented before distributing to the broader team. Please review the technical specifications section carefully as it contains important architectural decisions.",
+    "date": "2024-12-21T15:30:00.000Z",
+    "folderId": "draft",
+    "isRead": false,
+    "isDeleted": false
+  },
+  {
+    "id": "14",
+    "from": "Me",
+    "subject": "Proposal Ideas",
+    "content": "Brainstorming ideas for the new client proposal. Should include innovative solutions and competitive pricing strategies that differentiate us from competitors. I've been researching the client's industry trends and identifying opportunities where our expertise can add significant value. The proposal should highlight our experience with similar projects and demonstrate our understanding of their unique challenges. We need to present a comprehensive solution that covers their immediate needs while also providing a roadmap for future growth. Cost-effectiveness will be crucial, so I'm exploring various pricing models including fixed-price, time-and-materials, and hybrid approaches. The technical solution should leverage cutting-edge technologies while remaining practical and maintainable. I plan to include case studies from our previous successes and testimonials from satisfied clients to strengthen our credibility.",
+    "date": "2024-12-20T09:20:00.000Z",
+    "folderId": "draft",
+    "isRead": false,
+    "isDeleted": false
+  },
+  {
+    "id": "15",
+    "from": "Me",
+    "subject": "Performance Review Self-Assessment",
+    "content": "Working on my annual performance review self-assessment. Need to highlight key achievements and growth areas from this past year. I've been documenting my contributions to major projects, including the successful launch of the customer portal and the implementation of the new analytics platform. My technical skills have expanded significantly, particularly in cloud architecture and DevOps practices. I've also taken on more leadership responsibilities, mentoring junior developers and leading cross-functional initiatives. Areas for improvement include enhancing my presentation skills and gaining more experience with emerging technologies like machine learning. I plan to set goals for the upcoming year that align with both my career aspirations and the company's strategic objectives. The self-assessment needs to be comprehensive yet concise, demonstrating my value to the organization while showing commitment to continuous improvement.",
+    "date": "2024-12-16T13:15:00.000Z",
+    "folderId": "draft",
+    "isRead": true,
+    "isDeleted": false
+  },
+  {
+    "id": "16",
+    "from": "Me",
+    "subject": "Budget Analysis Draft",
+    "content": "Initial draft of the budget analysis for Q4. Numbers look promising but need to double-check calculations and validate assumptions with the finance team. The analysis shows we're tracking 8% above our revenue targets, primarily due to strong performance in our enterprise segment. Operating expenses have remained within budget despite some unexpected costs related to infrastructure upgrades. The profit margins have improved compared to Q3, reflecting our efficiency initiatives and cost optimization efforts. However, I want to verify the calculations for depreciation and amortization, as there may have been some changes in accounting policies that I need to account for. The forecast for Q1 next year looks positive, but we should be cautious about market volatility and potential economic headwinds. I'll schedule a review session with the CFO before finalizing these numbers for the board presentation.",
+    "date": "2024-12-13T17:00:00.000Z",
+    "folderId": "draft",
+    "isRead": false,
+    "isDeleted": false
+  },
+  {
+    "id": "17",
+    "from": "Project Manager",
+    "subject": "Resource Allocation",
+    "content": "Discussion about resource allocation for the upcoming sprint. We need to balance workload across team members to ensure optimal productivity and prevent burnout. The current sprint planning shows some team members are overallocated while others have capacity for additional tasks. I've analyzed the skill sets required for each user story and identified opportunities for cross-training and knowledge sharing. We should also consider the upcoming vacation schedules and plan accordingly to avoid any disruptions. The new junior developers are progressing well and can take on more complex tasks with proper mentoring. I recommend redistributing some of the backend work to free up our senior developers for the more challenging architectural decisions. Let's schedule a team meeting to discuss these adjustments and get everyone's input on the proposed changes.",
+    "date": "2024-12-19T10:30:00.000Z",
+    "folderId": "folder",
+    "isRead": false,
+    "isDeleted": false
+  },
+  {
+    "id": "18",
+    "from": "Design Team",
+    "subject": "UI/UX Mockups",
+    "content": "New mockups for the user interface are ready for review. Please provide feedback by end of week so we can incorporate changes before the development phase begins. The design team has created several variations for the main dashboard, user profile pages, and navigation components. We've focused on improving accessibility and ensuring the interface works well across different screen sizes and devices. The color scheme and typography have been updated to align with our new brand guidelines. User testing feedback has been incorporated, particularly around the checkout flow and search functionality. Please pay special attention to the mobile layouts, as our analytics show increasing mobile usage. Any feedback on usability, visual hierarchy, or technical feasibility would be greatly appreciated. We'll schedule a design review meeting once we receive input from all stakeholders.",
+    "date": "2024-12-18T14:45:00.000Z",
+    "folderId": "folder",
+    "isRead": true,
+    "isDeleted": false
+  },
+  {
+    "id": "19",
+    "from": "QA Team",
+    "subject": "Testing Results",
+    "content": "Completed testing phase shows 98% success rate. Minor issues have been documented for the next iteration and assigned to the appropriate team members for resolution. The automated test suite has been expanded to cover edge cases that were identified during manual testing. Performance testing results exceed our requirements, with average response times well below acceptable thresholds. Security scanning has revealed no critical vulnerabilities, though we've identified a few low-priority items that should be addressed in future releases. User acceptance testing feedback has been overwhelmingly positive, with participants praising the intuitive interface and improved functionality. The remaining 2% of failed test cases are related to third-party API integrations and are not blocking for the release. I recommend proceeding with the deployment while continuing to monitor and address the minor issues in parallel.",
+    "date": "2024-12-17T16:20:00.000Z",
+    "folderId": "folder",
+    "isRead": false,
+    "isDeleted": false
+  },
+  {
+    "id": "20",
+    "from": "DevOps",
+    "subject": "Deployment Schedule",
+    "content": "Production deployment scheduled for next Tuesday at 2 AM EST. All teams should be prepared for potential rollback procedures in case any issues arise during the deployment process. The deployment checklist has been reviewed and approved by all stakeholders. Database migration scripts have been tested thoroughly in our staging environment. We'll be implementing a blue-green deployment strategy to minimize downtime and ensure quick rollback capability if needed. The monitoring systems have been configured to alert us immediately if any performance metrics fall outside acceptable ranges. Customer support has been briefed on the new features and potential issues that users might encounter. A war room will be established with key personnel from development, operations, and support teams. Post-deployment testing procedures are scheduled to begin immediately after the release to validate all critical functionality.",
+    "date": "2024-12-16T12:00:00.000Z",
+    "folderId": "folder",
+    "isRead": false,
+    "isDeleted": false
+  },
+  {
+    "id": "21",
+    "from": "Security Team",
+    "subject": "Security Audit",
+    "content": "Monthly security audit completed. Found minor vulnerabilities that have been patched. Full report attached with detailed findings and remediation steps. The audit covered all our production systems, including web applications, databases, and network infrastructure. Most identified issues were related to outdated dependencies and minor configuration improvements. No critical or high-severity vulnerabilities were discovered, which is a testament to our proactive security practices. The penetration testing phase revealed some opportunities to strengthen our defense-in-depth strategy. All patches have been applied and tested in our staging environment before deployment to production. I recommend reviewing the security awareness training materials with the development team to prevent similar issues in the future. The next audit is scheduled for next month, and we should focus on implementing the recommended security enhancements before then.",
+    "date": "2024-12-13T15:30:00.000Z",
+    "folderId": "folder",
+    "isRead": true,
+    "isDeleted": false
+  },
+  {
+    "id": "22",
+    "from": "Legal Department",
+    "subject": "Contract Review",
+    "content": "Contract terms have been reviewed and approved. Please proceed with client signature collection and ensure all necessary documentation is properly executed. The legal team has made several important revisions to protect our interests while maintaining favorable terms for the client. Key changes include updated intellectual property clauses, revised payment terms, and enhanced termination provisions. The liability limitations have been adjusted based on the project scope and risk assessment. All regulatory compliance requirements have been incorporated to ensure we meet industry standards. The contract includes provisions for scope changes and additional work that may arise during project execution. Please coordinate with the client's legal team to schedule the signing ceremony and ensure all stakeholders are available. Once signed, we can proceed with project kickoff and resource allocation as planned.",
+    "date": "2024-12-19T11:15:00.000Z",
+    "folderId": "folder",
+    "isRead": false,
+    "isDeleted": false
+  },
+  {
+    "id": "23",
+    "from": "Spam Filter",
+    "subject": "Suspicious Activity",
+    "content": "Multiple failed login attempts detected from unknown IP address. Account has been temporarily locked as a security precaution to prevent unauthorized access. Our security monitoring system flagged this activity as potentially malicious based on the frequency and pattern of the attempts. The IP address has been traced to a geographic location that doesn't match your typical login patterns. We've implemented additional security measures including enhanced monitoring and stricter authentication requirements for your account. To regain access, you'll need to complete our account recovery process, which includes identity verification and password reset. Please contact our security team immediately if you suspect your credentials may have been compromised. We recommend enabling two-factor authentication once your account is restored to prevent future incidents. This security measure is part of our ongoing efforts to protect user data and maintain system integrity.",
+    "date": "2024-12-21T08:30:00.000Z",
+    "folderId": "trash",
+    "isRead": true,
+    "isDeleted": false
+  },
+  {
+    "id": "24",
+    "from": "Old Newsletter",
+    "subject": "Outdated Promotion",
+    "content": "This promotion has expired and is no longer valid. Please check our website for current offers and upcoming deals that might interest you. We appreciate your continued interest in our products and services. While this particular promotion has ended, we regularly introduce new offers and discounts for our valued customers. You can subscribe to our newsletter to stay informed about future promotions and exclusive deals. Our current offers include seasonal discounts, bundle packages, and loyalty rewards for returning customers. We also have a referral program that provides benefits for both you and your friends when they make their first purchase. Visit our promotions page for the most up-to-date information on available deals. If you have any questions about our current offerings or need assistance finding the right product for your needs, our customer service team is ready to help.",
+    "date": "2024-11-15T10:00:00.000Z",
+    "folderId": "trash",
+    "isRead": false,
+    "isDeleted": false
+  },
+  {
+    "id": "25",
+    "from": "Cancelled Meeting",
+    "subject": "Meeting Cancellation",
+    "content": "The scheduled meeting for today has been cancelled due to unforeseen circumstances. Will reschedule soon and send out new calendar invites once a suitable time is confirmed. I apologize for the short notice and any inconvenience this may cause to your schedule. The cancellation was necessary due to an urgent client situation that requires immediate attention. All agenda items will be carried over to the rescheduled meeting, and I'll send out the materials in advance so everyone can prepare accordingly. Please let me know your availability for next week, preferably Tuesday through Thursday afternoons. The meeting should take approximately two hours, and we'll need access to the conference room with video conferencing capabilities. I'll also arrange for refreshments and ensure all necessary equipment is available. Thank you for your understanding and flexibility in accommodating this change.",
+    "date": "2024-12-20T07:45:00.000Z",
+    "folderId": "trash",
+    "isRead": false,
+    "isDeleted": false
+  },
+  {
+    "id": "26",
+    "from": "Duplicate Email",
+    "subject": "System Error - Duplicate",
+    "content": "This email was sent multiple times due to a system error. Please ignore duplicate copies and only respond to this message. Our email server experienced a technical glitch that caused certain messages to be delivered repeatedly to some recipients. The IT team has identified and resolved the issue to prevent future occurrences. We sincerely apologize for any confusion or inconvenience this may have caused. If you received multiple copies of this message, you can safely delete the duplicates. Any responses you may have already sent will be processed normally, so there's no need to resend them. We've implemented additional monitoring and safeguards to prevent similar issues in the future. Our technical team is conducting a thorough review of our email infrastructure to identify and address any other potential problems. Thank you for your patience as we work to improve our systems and communication processes.",
+    "date": "2024-12-18T12:30:00.000Z",
+    "folderId": "trash",
+    "isRead": true,
+    "isDeleted": false
+  },
+  {
+    "id": "27",
+    "from": "Unsubscribed Service",
+    "subject": "Service Notification",
+    "content": "You have successfully unsubscribed from this service. You will no longer receive these notifications or promotional materials from our marketing campaigns. Your email address has been removed from all relevant mailing lists, and the changes will take effect within 24-48 hours. We respect your privacy preferences and appreciate the time you spent as a subscriber. If you unsubscribed by mistake or would like to resubscribe to specific types of communications, you can update your preferences through your account settings. We offer granular controls that allow you to choose which types of emails you'd like to receive, including product updates, security notifications, and special offers. If you continue to receive emails after the processing period, please contact our support team for assistance. Thank you for being part of our community, and we hope to serve you again in the future.",
+    "date": "2024-12-17T14:20:00.000Z",
+    "folderId": "trash",
+    "isRead": false,
+    "isDeleted": false
+  },
+  {
+    "id": "28",
+    "from": "Expired Account",
+    "subject": "Account Expired",
+    "content": "Your trial account has expired. Please upgrade to continue using our premium features and maintain access to your data and projects. During your trial period, we hope you experienced the full value of our platform and its advanced capabilities. Upgrading to a paid plan will restore all functionality and provide additional benefits including priority support, increased storage limits, and access to new features as they're released. We offer several subscription options to meet different needs and budgets, from individual plans to enterprise solutions. All your trial data has been preserved and will be immediately available upon upgrade. If you need more time to evaluate the platform, we occasionally offer trial extensions for qualified users. Our sales team is available to discuss pricing options and help you choose the plan that best fits your requirements. Don't let your valuable work be interrupted - upgrade today to continue your productivity.",
+    "date": "2024-12-16T16:00:00.000Z",
+    "folderId": "trash",
+    "isRead": false,
+    "isDeleted": false
+  },
+  {
+    "id": "29",
+    "from": "Test User",
+    "subject": "Deleted Email Test",
+    "content": "This email should be filtered out as it's marked as deleted and should not appear in regular email lists or search results. This message was created for testing purposes to verify that our email filtering system correctly handles deleted items. In normal operation, users should never see this content as it represents an email that has been moved to trash or permanently deleted. The system should automatically exclude such messages from inbox views, folder listings, and search operations. If you're seeing this message, it indicates there may be an issue with the email filtering logic that needs to be investigated. Please report this to the development team so they can review the deletion and filtering mechanisms. This type of content should only be visible in administrative interfaces or debugging tools, never in the regular user experience.",
+    "date": "2024-12-21T12:00:00.000Z",
+    "folderId": "inbox",
+    "isRead": false,
+    "isDeleted": true
+  },
+  {
+    "id": "30",
+    "from": "Another Test",
+    "subject": "Another Deleted Email",
+    "content": "This is another deleted email that should not appear in the list of active messages or be accessible through normal user interactions. Like the previous deleted email, this content serves as a test case for our data filtering and display logic. The application should have robust mechanisms to prevent deleted content from being shown to users, regardless of how they navigate through the interface. This includes direct URL access, search functionality, and any API endpoints that serve email data. Proper handling of deleted items is crucial for both user experience and data privacy compliance. The system should maintain referential integrity while ensuring that deleted content remains inaccessible to end users. If this message is visible in the application, it represents a significant bug that could potentially expose other deleted or private information to users who shouldn't have access to it.",
+    "date": "2024-12-20T14:00:00.000Z",
+    "folderId": "folder",
+    "isRead": true,
+    "isDeleted": true
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "id": "inbox",
+    "name": "Inbox"
+  },
+  {
+    "id": "draft",
+    "name": "Draft"
+  },
+  {
+    "id": "folder",
+    "name": "Folder"
+  },
+  {
+    "id": "trash",
+    "name": "Trash"
+  }
+]
