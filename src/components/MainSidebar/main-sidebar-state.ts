@@ -12,6 +12,7 @@ import {
   merge,
 } from "rxjs";
 import { createStateSelector } from "@/shared/utils/state-selectors";
+import { API_ENDPOINTS } from "@/config/api";
 
 export interface MainSidebarStateService {
   readonly selectFolder: (id: string) => void;
@@ -56,7 +57,7 @@ const initialState: State = {
 };
 
 const fetchFolders = async (): Promise<SidebarFolder[]> => {
-  const response = await fetch("http://localhost:3001/api/folders");
+  const response = await fetch(API_ENDPOINTS.folders);
 
   if (!response.ok) {
     throw new Error(`Failed to fetch folders: ${response.statusText}`);

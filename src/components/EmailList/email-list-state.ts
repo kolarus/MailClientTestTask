@@ -14,6 +14,7 @@ import {
 } from "rxjs";
 import type { MainSidebarStateService } from "../MainSidebar/main-sidebar-state";
 import { createStateSelector } from "@/shared/utils/state-selectors";
+import { API_ENDPOINTS } from "@/config/api";
 
 export interface EmailListStateService {
   readonly selectEmail: (id: string) => void;
@@ -94,7 +95,7 @@ const initialState: State = {
 };
 
 const fetchEmails = async (): Promise<Email[]> => {
-  const response = await fetch("http://localhost:3001/api/emails");
+  const response = await fetch(API_ENDPOINTS.emails);
 
   if (!response.ok) {
     throw new Error(`Failed to fetch emails: ${response.statusText}`);
