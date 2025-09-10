@@ -12,7 +12,7 @@ import {
   merge,
 } from "rxjs";
 import { createStateSelector } from "@/shared/utils/state-selectors";
-import { API_ENDPOINTS } from "@/config/api";
+import { API_ENDPOINTS } from "@/shared/api";
 
 export interface MainSidebarStateService {
   readonly selectFolder: (id: string) => void;

@@ -34,25 +34,30 @@ const getFolderIcon = (folderId: string) => {
 };
 
 export const MainSidebarView: React.FC<ViewProps> = (props) => {
+  const hasError = props.error && !props.isLoading;
+  const hasFolders =
+    props.folders.length > 0 && !props.isLoading && !props.error;
+
   return (
     <div className="main-sidebar">
       <MiniLogo />
-      {props.isLoading ? (
+      {props.isLoading && (
         <div className="main-sidebar__loading-skeleton">
-          {/* Show skeleton loading for folders */}
           {Array.from({ length: 4 }).map((_, index) => (
             <div key={index} className="main-sidebar__skeleton-folder">
               <div className="main-sidebar__skeleton-icon"></div>
             </div>
           ))}
         </div>
-      ) : props.error ? (
+      )}
+      {hasError && (
         <div className="main-sidebar__error-state">
           <div className="main-sidebar__error-message">
             Failed to load folders
           </div>
         </div>
-      ) : (
+      )}
+      {hasFolders &&
         props.folders.map((folder) => (
           <IconButton
             key={folder.id}
@@ -62,8 +67,7 @@ export const MainSidebarView: React.FC<ViewProps> = (props) => {
           >
             {getFolderIcon(folder.id)}
           </IconButton>
-        ))
-      )}
+        ))}
     </div>
   );
 };

@@ -1,11 +1,9 @@
 import React, { useEffect, useRef } from "react";
-import cn from "classnames";
 import "./ContextMenu.css";
 
 export interface ContextMenuOption {
   label: string;
   onClick: () => void;
-  disabled?: boolean;
 }
 
 export interface ContextMenuProps {
@@ -30,20 +28,12 @@ export const ContextMenu: React.FC<ContextMenuProps> = ({
       }
     };
 
-    const handleEscape = (event: KeyboardEvent) => {
-      if (event.key === "Escape") {
-        onClose();
-      }
-    };
-
     if (isOpen) {
       document.addEventListener("mousedown", handleClickOutside);
-      document.addEventListener("keydown", handleEscape);
     }
 
     return () => {
       document.removeEventListener("mousedown", handleClickOutside);
-      document.removeEventListener("keydown", handleEscape);
     };
   }, [isOpen, onClose]);
 
@@ -65,14 +55,10 @@ export const ContextMenu: React.FC<ContextMenuProps> = ({
       {options.map((option, index) => (
         <div
           key={index}
-          className={cn("context-menu__option", {
-            "context-menu__option--disabled": option.disabled,
-          })}
+          className="context-menu__option"
           onClick={() => {
-            if (!option.disabled) {
-              option.onClick();
-              onClose();
-            }
+            option.onClick();
+            onClose();
           }}
         >
           {option.label}

@@ -12,11 +12,13 @@ export interface IconButtonProps {
 export const IconButton: React.FC<IconButtonProps> = (props) => (
   <div
     onClick={props.onClick}
-    className={cn("icon-button", {
-      ["icon-button--selected"]: props.isSelected,
+    className={cn("main-sidebar__icon-button", {
+      ["main-sidebar__icon-button--selected"]: props.isSelected,
     })}
   >
-    <div className="icon-button__icon">{props.children}</div>
-    {props.label && <div className="icon-button__label">{props.label}</div>}
+    <div className="main-sidebar__icon-button__icon">{props.children}</div>
+    {props.label && (
+      <div className="main-sidebar__icon-button__label">{props.label}</div>
+    )}
   </div>
 );

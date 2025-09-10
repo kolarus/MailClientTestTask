@@ -14,7 +14,7 @@ import {
 } from "rxjs";
 import type { MainSidebarStateService } from "../MainSidebar/main-sidebar-state";
 import { createStateSelector } from "@/shared/utils/state-selectors";
-import { API_ENDPOINTS } from "@/config/api";
+import { API_ENDPOINTS } from "@/shared/api";
 
 export interface EmailListStateService {
   readonly selectEmail: (id: string) => void;

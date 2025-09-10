@@ -1,4 +1,4 @@
-.icon-button {
+.main-sidebar__icon-button {
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -9,13 +9,13 @@
   cursor: pointer;
 }
 
-.icon-button__icon {
+.main-sidebar__icon-button__icon {
   display: flex;
   align-items: center;
   justify-content: center;
 }
 
-.icon-button__label {
+.main-sidebar__icon-button__label {
   font-size: 10px;
   margin-top: 4px;
   color: #ffffff;
@@ -23,7 +23,7 @@
   font-weight: 500;
 }
 
-.icon-button:hover,
-.icon-button--selected {
+.main-sidebar__icon-button:hover,
+.main-sidebar__icon-button--selected {
   background-color: rgb(115 112 112);
 }
